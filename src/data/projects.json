@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Umurava-Website",
+    "imageSrc": "projects/12.png",
+    "description": "This is a full-stack project where i handled both frontend and backend.",
+    "skills": ["NextJs", "Express", "Node", "Redux"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/mfique/Umurava-Web"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "title": "NextJs Portfolio",
+    "imageSrc": "projects/11.png",
+    "description": "This NextJs portfolio showcases my skills, projects and experiences.",
+    "skills": ["NextJs", "Express", "Node", "Bootstrap"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/mfique/NextJs-Portfolio/tree/master/NextJs-Portfolio"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Farm Pro",
+    "imageSrc": "projects/2.png",
+    "description": "This website provides tools, resources and information to farmers",
+    "skills": ["J.Script", "Laravel", "Tailwind", "HTML5"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/mfique/FarmPro"
   }
 ]
