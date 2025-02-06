@@ -89,4 +89,17 @@
     padding-left: 0;
     padding-right: 0;
   }
+  .downloadBtn {
+    font-size: 22px;
+  padding: 10px 20px;
+  background-color: var(--primary-color);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background-color 0.3s ease;
+ }
+ 
+  
 }

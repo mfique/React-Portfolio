@@ -1,13 +1,5 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
-  },
-  {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
-  },
-  {
     "title": "React",
     "imageSrc": "skills/react.png"
   },
@@ -16,15 +8,61 @@
     "imageSrc": "skills/node.png"
   },
   {
+    "title":"Flutter",
+    "imageSrc":"skills/flutter.jpg"
+  },
+  {
+    "title":"NextJs",
+    "imageSrc":"skills/nextjs.avif"
+  },
+  {
+    "title":"Python",
+    "imageSrc":"skills/python.png"
+  },
+  {
+    "title":"React Native",
+    "imageSrc":"skills/rn.png"
+  },
+  {
+    "title":"Java",
+    "imageSrc":"skills/java.png"
+  },
+  {
+    "title":"C++",
+    "imageSrc":"skills/c++.png"
+  },
+  {
+    "title":"JavaScript",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "PHP",
+    "imageSrc": "skills/php.svg"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title":"Bootstrap",
+    "imageSrc":"skills/boot.svg"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+ 
+  {
     "title": "GraphQL",
     "imageSrc": "skills/graphql.png"
   },
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
-  },
-  {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
   }
 ]
