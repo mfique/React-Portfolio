@@ -21,13 +21,7 @@
   font-weight: 900;
   margin-bottom: 33px;
   font-family: var(--font-roboto);
-  background: linear-gradient(
-    90deg,
-    rgba(165, 215, 232, 0.42) 0%,
-    rgba(255, 255, 255, 0) 100%
-  );
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: var(--color-primary);
 }
 
 .contactBtn {

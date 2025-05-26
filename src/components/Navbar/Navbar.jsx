@@ -5,6 +5,18 @@ import { getImageUrl } from "../../utils";
 
 export const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
+  const [darkMode, setDarkMode] = useState(false);
+
+  const toggleDarkMode = () => {
+    setDarkMode(!darkMode);
+    if (!darkMode) {
+      document.body.classList.add('dark-mode');
+      document.body.classList.remove('light-mode');
+    } else {
+      document.body.classList.remove('dark-mode');
+      document.body.classList.add('light-mode');
+    }
+  };
 
   return (
     <nav className={styles.navbar}>
@@ -37,6 +49,11 @@ export const Navbar = () => {
           </li>
           <li>
             <a href="#contact">Contact</a>
+          </li>
+          <li>
+            <button onClick={toggleDarkMode} className={styles.darkModeToggle}>
+              {darkMode ? "🌞" : "🌙"}
+            </button>
           </li>
         </ul>
       </div>

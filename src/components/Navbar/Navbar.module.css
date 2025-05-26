@@ -80,3 +80,11 @@
     z-index: 1;
   }
 }
+
+.darkModeToggle {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  margin-right: 10px;
+}
